@@ -3,8 +3,8 @@
 ## 软件信息
 | 软件名称 | 版本 |
 | ---- | ---- |
-| OpenCore | 0.6.9 |
-| macOS | 10.15.7 (19H2) |
+| OpenCore | 0.7.5 |
+| macOS | 11.6.1 (20G224) |
 
 ## 硬件信息
 | 设备 | 型号 | 备注 |
@@ -22,13 +22,17 @@
 
 | 驱动名称 | 版本 |
 | ---- | ---- |
-| Lilu.kext| 1.5.5-RELEASE |
-| VirtualSMC.kext| 1.2.6-RELEASE |
-| WhateverGreen.kext | 1.5.2-RELEASE |
-| AppleALC.kext | 1.6.3-RELEASE |
+| Lilu.kext| 1.5.7-RELEASE |
+| VirtualSMC.kext| 1.2.7-RELEASE |
+| WhateverGreen.kext | 1.5.5-RELEASE |
+| AppleALC.kext | 1.6.6-RELEASE |
 | IntelMausiEthernet.kext   | 1.0.7-RELEASE |
 
 ## 更新日志
+### 2021-11-26
+    1. OpenCore 升级至0.7.5版本
+    2. USB定制完成
+    3. 增加开机界面
+    
 ### 2021-08-27
     1. 项目初始化
-
